@@ -30,7 +30,7 @@ global.SymbolMeaning = `*Symbol meaning :*
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = `𝙵ͥ͢𝚊ͣ𝚛ͫ𝚒͓͒𝚒𝙳͓ͯ - 💓
+  var sticker_name = `Rull-Bot - 💓
 
 ❑ ιηѕтαgяαм : @faridmhrdkaa
 ❑ gιтнυв : @Fariiid-M
