@@ -3143,7 +3143,7 @@ handler.tags = ['virus']
 handler.command = /^(bughole)$/i
 handler.owner = false
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
