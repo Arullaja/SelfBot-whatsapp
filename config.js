@@ -2,7 +2,7 @@ let fs = require('fs');
 let chalk = require('chalk');
 
 //Nomer Owner
-global.owner = ['6285890441472'] // Put your number here
+global.owner = ['6288224465258'] // Put your number here
 
 // Petunjuk Di Menu
 global.inUrl = '<link>'
@@ -30,12 +30,12 @@ global.SymbolMeaning = `*Symbol meaning :*
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = `𝙵ͥ͢𝚊ͣ𝚛ͫ𝚒͓͒𝚒𝙳͓ͯ - 💓
+  var sticker_name = `Stiker ini dibuat oleh Rull-Bot
 
-❑ ιηѕтαgяαм : @faridmhrdkaa
-❑ gιтнυв : @Fariiid-M
-❑ ωнαтѕαρρ : 6285890441472\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
-  var sticker_author = ``
+❑ ιηѕтαgяαм : @arullbgg
+❑ gιтнυв : @arullaja
+❑ ωнαтѕαρρ : 6288224465258\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+  var sticker_author = `Arul 6288224465258`
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
