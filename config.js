@@ -33,9 +33,9 @@ if (stickerpack.spackname == '') {
   var sticker_name = `Sticker ini dibuat oleh Rull-Bot
 
 ❑ ιηѕтαgяαм : @arullbgg
-❑ gιтнυв : @Arullaja
+❑ ʏᴏᴜᴛᴜʙᴇ : @Arull
 ❑ ωнαтѕαρρ : 6288224465258\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
-  var sticker_author = `Arul 6288224465258`
+  var sticker_author = `Arull`
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
