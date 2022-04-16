@@ -1,4 +1,4 @@
-<a href="https://github.com/Arullaja/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Arullaja&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/Arullaja/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://github.com/Arullaja.png&usqp=CAU&backgroundColor=%23ecf0f1&github=Arullaja&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 Simple WhatsApp Bot
 
