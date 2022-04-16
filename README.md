@@ -1,8 +1,8 @@
-<a href="https://github.com/Arullaja/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Fariiid-M&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/Arullaja/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Arullaja&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fariiid-M/SelfBot-whatsapp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arullaja/SelfBot-whatsapp)
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BzDqJgRFzEECe2IbE4WtOf)
 
