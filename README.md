@@ -1,4 +1,4 @@
-<a href="https://github.com/Fariiid-M/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Fariiid-M&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/Arullaja/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Fariiid-M&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 Simple WhatsApp Bot
 
@@ -116,7 +116,7 @@ conn.logger.level = 'debug'
 
 ### Thanks :
 
- [![Arull](https://github.com/Arullaja.png?size=100)](https://github.com/Arullaja)| [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt) | [![dngda](https://github.com/dngda.png?size=100)](https://github.com/dngda)
+ [![Arull](https://github.com/Arullaja.png?size=110)](https://github.com/Arullaja)| [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt) | [![dngda](https://github.com/dngda.png?size=100)](https://github.com/dngda)
 ----|----|----|----|----
 [Arull](https://github.com/Arullaja) | [Adiwajshing](https://github.com/adiwajshing) | [Nurutomo](https://github.com/Nurutomo) | [DikaArdnt](https://github.com/DikaArdnt) | [DanangDwiyoga](https://github.com/dngda)
 
