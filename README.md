@@ -8,10 +8,10 @@ Simple WhatsApp Bot
 
 
 # Info :
-* Edit nomer owner [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L5)
-* Auto public? ubah [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L59) dan [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L63) menjadi false
-* Edit teks rejected [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L347)
-* Edit watermark sticker [`di sini (packname)`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L33) dan [`di sini (author)`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L38)
+* Edit nomer owner [`di sini`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/config.js#L5)
+* Auto public? ubah [`di sini`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/handler.js#L59) dan [`di sini`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/handler.js#L63) menjadi false
+* Edit teks rejected [`di sini`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/handler.js#L347)
+* Edit watermark sticker [`di sini (packname)`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/config.js#L33) dan [`di sini (author)`](https://github.com/Arullaja/SelfBot-whatsapp/blob/main/config.js#L38)
 ----
 
 # Cara Penginstalan :
@@ -25,7 +25,7 @@ Simple WhatsApp Bot
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fariiid-M/SelfBot-whatsapp
+git clone https://github.com/Arullaja/SelfBot-whatsapp
 cd SelfBot-whatsapp
 npm i
 npm update 
@@ -116,8 +116,8 @@ conn.logger.level = 'debug'
 
 ### Thanks :
 
- [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt) | [![dngda](https://github.com/dngda.png?size=100)](https://github.com/dngda)
+ [![Arull](https://github.com/Arullaja.png?size=100)](https://github.com/Arullaja)| [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt) | [![dngda](https://github.com/dngda.png?size=100)](https://github.com/dngda)
 ----|----|----|----
-[Adiwajshing](https://github.com/adiwajshing) | [Nurutomo](https://github.com/Nurutomo) | [DikaArdnt](https://github.com/DikaArdnt) | [DanangDwiyoga](https://github.com/dngda)
+[Arull](https://github.com/Arullaja) | [Adiwajshing](https://github.com/adiwajshing) | [Nurutomo](https://github.com/Nurutomo) | [DikaArdnt](https://github.com/DikaArdnt) | [DanangDwiyoga](https://github.com/dngda)
 
 ---------
